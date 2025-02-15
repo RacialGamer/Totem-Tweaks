@@ -7,6 +7,9 @@
   "text.autoconfig.totemtweaks.option.popSize.@PrefixText": "Totem Pop Size",
   "text.autoconfig.totemtweaks.option.popSize.@Tooltip": "Adjusts the pop size of the Totem",
   "text.autoconfig.totemtweaks.option.popSize": "Pop Size of your Totem",
+  "text.autoconfig.totemtweaks.option.disableEquipAnimation.@PrefixText": "Other Options",
+  "text.autoconfig.totemtweaks.option.disableEquipAnimation.@Tooltip": "Disables the equip animation of the Totem",
+  "text.autoconfig.totemtweaks.option.disableEquipAnimation": "Disable Equip Animation Totem",
 
   "text.autoconfig.totemtweaks.category.Totem Pop": "Totem Pop",
   "text.autoconfig.totemtweaks.option.TotemPopAnimation.@PrefixText": "Default Totem Pop Animation",
