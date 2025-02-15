@@ -17,6 +17,10 @@ public class Gui implements ConfigData {
     @ConfigEntry.Gui.Tooltip
     public float popSize = 0.3f;
 
+    @ConfigEntry.Gui.PrefixText
+    @ConfigEntry.Gui.Tooltip
+    public boolean disableEquipAnimation = false;
+
     @ConfigEntry.Category("Totem Pop")
     @ConfigEntry.Gui.PrefixText
     public boolean TotemPopAnimation = true;
