@@ -37,9 +37,9 @@ public class Gui implements ConfigData {
     @ConfigEntry.Gui.Tooltip
     public boolean disableRotations = false;
 
-    @ConfigEntry.Category("Totem Pop")
-    @ConfigEntry.Gui.Tooltip
-    public boolean staticSize = false;
+//    @ConfigEntry.Category("Totem Pop")
+//    @ConfigEntry.Gui.Tooltip
+//    public boolean staticSize = false;
 
  /*   @ConfigEntry.Category("Totem Pop")
     @ConfigEntry.Gui.Tooltip
