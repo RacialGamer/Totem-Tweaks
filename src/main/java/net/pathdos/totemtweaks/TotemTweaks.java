@@ -1,4 +1,4 @@
-package net.racialgamer.totemtweaks;
+package net.pathdos.totemtweaks;
 
 import com.mojang.brigadier.Command;
 import com.mojang.brigadier.context.CommandContext;
@@ -11,7 +11,7 @@ import net.fabricmc.fabric.api.client.command.v2.ClientCommandRegistrationCallba
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
-import net.racialgamer.totemtweaks.config.Gui;
+import net.pathdos.totemtweaks.config.Gui;
 
 public class TotemTweaks implements ModInitializer {
 

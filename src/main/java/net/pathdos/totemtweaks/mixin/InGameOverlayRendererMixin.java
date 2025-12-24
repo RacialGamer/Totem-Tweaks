@@ -1,14 +1,12 @@
-package net.racialgamer.totemtweaks.mixin;
+package net.pathdos.totemtweaks.mixin;
 
 import com.llamalad7.mixinextras.injector.v2.WrapWithCondition;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.gui.hud.InGameOverlayRenderer;
-import net.minecraft.client.util.Window;
 import net.minecraft.client.util.math.MatrixStack;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 import net.minecraft.util.math.random.Random;
-import net.racialgamer.totemtweaks.config.Gui;
+import net.pathdos.totemtweaks.config.Gui;
 import org.joml.Quaternionfc;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
