@@ -1,4 +1,4 @@
-package net.racialgamer.totemtweaks.config;
+package net.pathdos.totemtweaks.config;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;

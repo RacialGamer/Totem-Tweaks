@@ -1,4 +1,4 @@
-package net.racialgamer.totemtweaks.config;
+package net.pathdos.totemtweaks.config;
 
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;
