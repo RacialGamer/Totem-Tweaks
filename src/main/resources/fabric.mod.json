@@ -20,10 +20,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.racialgamer.totemtweaks.TotemTweaks"
+      "net.pathdos.totemtweaks.TotemTweaks"
     ],
     "modmenu": [
-      "net.racialgamer.totemtweaks.config.ModMenu"
+      "net.pathdos.totemtweaks.config.ModMenu"
     ]
   },
   "mixins": [
