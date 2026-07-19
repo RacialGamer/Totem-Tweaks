@@ -39,7 +39,7 @@ public class TotemTweaks implements ModInitializer {
 	private int openConfigScreen(CommandContext<?> context) {
 		Minecraft client = Minecraft.getInstance();
 		client.schedule(() -> {
-			client.setScreenAndShow(ModMenu.getConfigScreen("totemtweaks", client.gui.screen()));
+			client.setScreenAndShow(ModMenu.getConfigScreen("totemtweaks", client.screen));
 		});
 		return Command.SINGLE_SUCCESS;
 	}
